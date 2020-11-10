@@ -11,7 +11,6 @@ C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcore
 C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
 C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
 C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
-C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
 C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
 C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cs
 C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.input.cache
@@ -34,3 +33,11 @@ C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcore
 C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
+C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\Fagner Fernandes\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
